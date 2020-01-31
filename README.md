@@ -1,6 +1,9 @@
 # Predict-Book-Price-without-NLP
 # Book Price Prediction
 
+### You can get explanation of Each block on my medium blog
+[Visit Tutorial blog](https://medium.com/@chintanchitroda47/predict-book-price-without-using-nlp-textual-processing-approach-2de77d64b73b)
+
 #### Here we explore a big database of books. Books of different genres, from thousands of authors. 
 #### In this Project, We are required to use this dataset to build a Machine Learning model to predict the price of books based on a given set of features below:
 
